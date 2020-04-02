@@ -22,7 +22,7 @@ title: Camer Scrapes - By Georges Bodiong
 email: deebodiong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  The first data-centric blogging platform in Cameroon.
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bodiong
 github_username:  deegeorgie
