@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Georges Bodiong]({{site.baseurl}}/https://github.com/deegeorgie/deegeorgie.github.io/blob/master/bodiong.jpg)
 
 Dynamic and multi-talented strategist, and data enthusiast. Studied communication and did some in-agency work for a few years before getting pissed by the routine (I dislike it, you know…). 
 
