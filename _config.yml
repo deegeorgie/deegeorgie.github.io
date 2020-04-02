@@ -32,6 +32,8 @@ defaults:
       path: "assets/"
     values:
       image: true
+#google analytics
+google_analytics: UA-162574699-1
 
 # Disqus Comments
 disqus:
