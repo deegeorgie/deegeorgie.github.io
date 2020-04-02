@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Camer Scrapes!"
 date:   2020-03-31 20:20:14 +0000
 categories: jekyll update
+comments: true
 ---
 
 We live in data-driven world, where data has undoubtedly become the hottest commodity. Most decision-makers in business and political circles rely on insights derived from data mining to make informed decisions. 
