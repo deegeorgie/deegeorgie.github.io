@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "west Africa Weather"
+title:  "West Africa Weather Patterns"
 date:   2020-04-03
 categories:
   - data
